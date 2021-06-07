@@ -1,3 +1,3 @@
 -- Reverse a list
-myReverse :: [a] -> [a]
+myReverse :: [Int] -> [Int]
 myReverse (a : as) = as ++ [a]
