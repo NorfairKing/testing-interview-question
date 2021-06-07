@@ -8,5 +8,8 @@
 
 1. Q. Can I look things up?
 
-   A. No, but you can ask the interviewer as if they were Google
+   A. No, but you can ask the interviewer as if they were Google.
 
+2. Q. Can I change the functions?
+
+   A. Yes, do whatever you need to do.
